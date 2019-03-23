@@ -1,0 +1,28 @@
+{
+  "name": "keshava",
+  "version": "1.0.0",
+  "description": "Keshava Alur - Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyngr/Keshava.git"
+  },
+  "author": "Keshava Alur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyngr/Keshava/issues"
+  },
+  "homepage": "https://github.com/iyngr/Keshava#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "nodemailer": "^5.1.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^1.18.10",
+    "popups": "^1.1.3"
+  }
+}
