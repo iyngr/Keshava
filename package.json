@@ -24,6 +24,5 @@
     "nodemailer-smtp-transport": "^2.7.4",
     "nodemon": "^1.18.10",
     "popups": "^1.1.3",
-    "mixin-deep": ">=1.3.2"
   }
 }
